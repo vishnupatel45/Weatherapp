@@ -25,6 +25,7 @@
                         console.log(weather.id)
                         div.innerHTML=`
                             <div>
+                                <div class="text-center"><img src='./weather.gif' width="200px" height="200px"/></div>
                                 <div class="text-center fs-1 fw-medium">${weather.temperature_celsius}°C / ${weather.temperature_kelvin}</div>
                                 <div  class="text-center fs-1 fw-medium">${weather.state}</div>
                                 <div class="d-flex justify-content-around fs-2 fw-medium">
@@ -48,7 +49,6 @@
                 <input type="text" class="form-control" id="txtState" onchange="searchvalues(this)" name="state" placeholder="search" />
                 <span class="bi-search btn btn-warning"></span>
             </div>
-            <div class="text-center"><img src='./weather.gif' width="200px" height="200px"/></div>
             <div class="text-light" id="content">
             </div>
         </div>
