@@ -1,0 +1,254 @@
+[
+    {
+      "id": 1,
+      "state": "Andhra Pradesh",
+      "temperature_celsius": 30,
+      "temperature_kelvin": 303,
+      "humidity": 65,
+      "wind_speed": 10,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 2,
+      "state": "Arunachal Pradesh",
+      "temperature_celsius": 18,
+      "temperature_kelvin": 291,
+      "humidity": 70,
+      "wind_speed": 5,
+      "weather_condition": "Mild"
+    },
+    {
+      "id": 3,
+      "state": "Assam",
+      "temperature_celsius": 25,
+      "temperature_kelvin": 298,
+      "humidity": 75,
+      "wind_speed": 8,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 4,
+      "state": "Bihar",
+      "temperature_celsius": 28,
+      "temperature_kelvin": 301,
+      "humidity": 60,
+      "wind_speed": 12,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 5,
+      "state": "Chhattisgarh",
+      "temperature_celsius": 32,
+      "temperature_kelvin": 305,
+      "humidity": 55,
+      "wind_speed": 15,
+      "weather_condition": "Very Hot"
+    },
+    {
+      "id": 6,
+      "state": "Goa",
+      "temperature_celsius": 27,
+      "temperature_kelvin": 300,
+      "humidity": 80,
+      "wind_speed": 7,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 7,
+      "state": "Gujarat",
+      "temperature_celsius": 35,
+      "temperature_kelvin": 308,
+      "humidity": 50,
+      "wind_speed": 18,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 8,
+      "state": "Haryana",
+      "temperature_celsius": 30,
+      "temperature_kelvin": 303,
+      "humidity": 45,
+      "wind_speed": 20,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 9,
+      "state": "Himachal Pradesh",
+      "temperature_celsius": 15,
+      "temperature_kelvin": 288,
+      "humidity": 65,
+      "wind_speed": 6,
+      "weather_condition": "Cool"
+    },
+    {
+      "id": 10,
+      "state": "Jharkhand",
+      "temperature_celsius": 26,
+      "temperature_kelvin": 299,
+      "humidity": 68,
+      "wind_speed": 9,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 11,
+      "state": "Karnataka",
+      "temperature_celsius": 29,
+      "temperature_kelvin": 302,
+      "humidity": 72,
+      "wind_speed": 11,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 12,
+      "state": "Kerala",
+      "temperature_celsius": 28,
+      "temperature_kelvin": 301,
+      "humidity": 78,
+      "wind_speed": 10,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 13,
+      "state": "Madhya Pradesh",
+      "temperature_celsius": 33,
+      "temperature_kelvin": 306,
+      "humidity": 58,
+      "wind_speed": 14,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 14,
+      "state": "Maharashtra",
+      "temperature_celsius": 34,
+      "temperature_kelvin": 307,
+      "humidity": 55,
+      "wind_speed": 16,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 15,
+      "state": "Manipur",
+      "temperature_celsius": 20,
+      "temperature_kelvin": 293,
+      "humidity": 75,
+      "wind_speed": 7,
+      "weather_condition": "Mild"
+    },
+    {
+      "id": 16,
+      "state": "Meghalaya",
+      "temperature_celsius": 22,
+      "temperature_kelvin": 295,
+      "humidity": 80,
+      "wind_speed": 8,
+      "weather_condition": "Mild"
+    },
+    {
+      "id": 17,
+      "state": "Mizoram",
+      "temperature_celsius": 19,
+      "temperature_kelvin": 292,
+      "humidity": 85,
+      "wind_speed": 5,
+      "weather_condition": "Mild"
+    },
+    {
+      "id": 18,
+      "state": "Nagaland",
+      "temperature_celsius": 21,
+      "temperature_kelvin": 294,
+      "humidity": 70,
+      "wind_speed": 6,
+      "weather_condition": "Mild"
+    },
+    {
+      "id": 19,
+      "state": "Odisha",
+      "temperature_celsius": 30,
+      "temperature_kelvin": 303,
+      "humidity": 65,
+      "wind_speed": 12,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 20,
+      "state": "Punjab",
+      "temperature_celsius": 28,
+      "temperature_kelvin": 301,
+      "humidity": 50,
+      "wind_speed": 15,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 21,
+      "state": "Rajasthan",
+      "temperature_celsius": 36,
+      "temperature_kelvin": 309,
+      "humidity": 40,
+      "wind_speed": 22,
+      "weather_condition": "Very Hot"
+    },
+    {
+      "id": 22,
+      "state": "Sikkim",
+      "temperature_celsius": 16,
+      "temperature_kelvin": 289,
+      "humidity": 60,
+      "wind_speed": 7,
+      "weather_condition": "Cool"
+    },
+    {
+      "id": 23,
+      "state": "Tamil Nadu",
+      "temperature_celsius": 31,
+      "temperature_kelvin": 304,
+      "humidity": 75,
+      "wind_speed": 14,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 24,
+      "state": "Telangana",
+      "temperature_celsius": 33,
+      "temperature_kelvin": 306,
+      "humidity": 68,
+      "wind_speed": 10,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 25,
+      "state": "Tripura",
+      "temperature_celsius": 24,
+      "temperature_kelvin": 297,
+      "humidity": 72,
+      "wind_speed": 9,
+      "weather_condition": "Warm"
+    },
+    {
+      "id": 26,
+      "state": "Uttar Pradesh",
+      "temperature_celsius": 32,
+      "temperature_kelvin": 305,
+      "humidity": 55,
+      "wind_speed": 18,
+      "weather_condition": "Hot"
+    },
+    {
+      "id": 27,
+      "state": "Uttarakhand",
+      "temperature_celsius": 18,
+      "temperature_kelvin": 291,
+      "humidity": 45,
+      "wind_speed": 20,
+      "weather_condition": "Cool"
+    },
+    {
+      "id": 28,
+      "state": "West Bengal",
+      "temperature_celsius": 29,
+      "temperature_kelvin": 302,
+      "humidity": 58,
+      "wind_speed": 11,
+      "weather_condition": "Warm"
+    }
+]
